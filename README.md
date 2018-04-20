@@ -42,4 +42,4 @@ This folder also contains files that allow GSEA to be run with two data sets tha
   
   The **GSEA_Result_2** folder contains heatmap images of the GSEA results from the second experiment when run with each geneset collection.  
     
-  An analysis of the results from this research is discussed in depth in **Research_Paper.pdf***
+  An analysis of the results from this research is discussed in depth in **Research_Paper.pdf**
